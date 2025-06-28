@@ -93,8 +93,8 @@ async function main() {
     const userProblem = readlineSync.question("Ask me anything --> ");
     await runAgent(userProblem);
 
-    console.log("HISTORY :-\n");
-    console.log(history);
+    // console.log("HISTORY :-\n");
+    // console.log(history);
     looprun--;
   }
 }
