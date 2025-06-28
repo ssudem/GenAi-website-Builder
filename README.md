@@ -67,4 +67,4 @@ GenAiCursor/
 
 ---
 
-\*\*Happy
+**Happy building with GenAiCursor!**
